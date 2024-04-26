@@ -1,4 +1,4 @@
-1. logisticRegressionModel.py中是对模型的定义
+1.logisticRegressionModel.py中是对模型的定义
 
 2.main.py中是可以train和test
 
